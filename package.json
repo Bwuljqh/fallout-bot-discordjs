@@ -1,0 +1,43 @@
+{
+  "name": "fallout-bot-discord",
+  "version": "1.0.0",
+  "description": "TTRPG bot with reusable skeleton",
+  "main": "index.js",
+  "engines": {
+    "node": "16.x",
+    "npm": "7.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Bwuljqh",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bwuljqh/fallout-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bwuljqh/fallout-bot/issues"
+  },
+  "homepage": "https://github.com/Bwuljqh/fallout-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "async-limiter": "1.0.1",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.1.0",
+    "dotenv": "8.2.0",
+    "googleapis": "^84.0.0",
+    "long": "4.0.0",
+    "node": "^16.6.1",
+    "prism-media": "0.0.3",
+    "snekfetch": "3.6.4",
+    "tweetnacl": "1.0.2",
+    "ws": "^6.2.2",
+    "node-dir": "^0.1.17"
+  },
+  "devDependencies": {
+  }
+}

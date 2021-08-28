@@ -1,0 +1,7 @@
+{
+"access_token":This token file is auto-generated when you connect your application to google API for the first time,
+  "refresh_token": If you do not intend to use google API you can delete this file,
+  "scope":"https://www.googleapis.com/auth/spreadsheets.readonly",
+  "token_type":"Bearer",
+  "expiry_date":
+  }

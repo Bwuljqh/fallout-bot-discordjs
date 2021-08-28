@@ -1,6 +1,6 @@
 # Fallout-bot-discordjs
 
-Hey! This bot started as a dice bot for a french fallout ttrpg (https://fallout-rpg.com/) and is also used to display stats from Google Sheets via Google API. This bot is also a great skeleton for any discord bot made in js.
+Hey! This bot started as a dice bot for a french fallout ttrpg (https://fallout-rpg.com/) and is also used to display stats from Google Sheets via Google API (This sheet in particular https://docs.google.com/spreadsheets/d/1Ps14ieNpSrbw8NuEpMGlhW9gvFesVhzzl8a8PGnAt6w/edit?usp=sharing made with Martin Sicard). This bot is also a great skeleton for any discord bot made in js.
 
 
 ## Dependencies 
